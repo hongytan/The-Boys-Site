@@ -8,12 +8,12 @@ html, body {
 }
 
 .banner {
-  background-image: url('banner.jpg');
+  background-image: url('photos/banner.jpg');
   height: 7vw;
 }
 
 .banner_leo {
-  background-image: url('banner2.jpg');
+  background-image: url('photos/banner2.jpg');
   height: 7vw;
 }
 
@@ -36,7 +36,7 @@ html, body {
   width: 20%;
   text-align: center;
   font-size: 20px;
-  background-image: url('banner2.jpg');
+  background-image: url('photos/banner2.jpg');
 }
 
 .links:hover {
