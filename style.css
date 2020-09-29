@@ -12,17 +12,22 @@ html, body {
   height: 7vw;
 }
 
-.banner h1 {
+.banner_leo {
+  background-image: url('banner2.jpg');
+  height: 7vw;
+}
+
+.banner h1, .banner_leo h1 {
   text-align: center;
   font-size: 5vw;
   color: white;
-  opacity: 0.6;
+  opacity: 0.7;
 }
 
 .images {
   float: left;
   width: 20%;
-  height: 555px;
+  height: 535px;
   object-fit: cover;
 }
 
@@ -40,15 +45,15 @@ html, body {
 }
 
 .choose {
-  font-size: 20px;
+  font-size: 35px;
   font-weight: bold;
   text-align: center;
   background-color: black;
   width: 100%;
-  height: 30px;
+  height: 50px;
   color: darkred;
 }
 
 .links a {
-  color: lightgrey;
+  color: white;
 }
