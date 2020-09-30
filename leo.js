@@ -1,7 +1,7 @@
-document.querySelector('.page_leo').style.backgroundColor = 'red';
+document.querySelector('#page_leo').style.backgroundColor = 'red';
 
 function blink() {
-    let body = document.querySelector('.page_leo');
+    let body = document.querySelector('#page_leo');
     if (body.style.backgroundColor === 'red')
     {
       body.style.backgroundColor = 'orange';
@@ -29,4 +29,4 @@ function blink() {
 }
 
 // Blink every 500ms
-window.setInterval(blink, 500);
+window.setInterval(blink, 1000);

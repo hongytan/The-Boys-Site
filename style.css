@@ -12,12 +12,12 @@ html, body {
   height: 7vw;
 }
 
-.banner_leo {
+.banner_person {
   background-image: url('photos/banner2.jpg');
   height: 7vw;
 }
 
-.banner h1, .banner_leo h1 {
+.banner h1, .banner_person h1 {
   text-align: center;
   font-size: 5vw;
   color: white;
@@ -58,6 +58,27 @@ html, body {
   color: white;
 }
 
-.page_leo {
-  height: 100%;
+#page_leo {
+  height: 85%;
+}
+
+#page_sam {
+  height: 565px;
+  background-color: orange;
+  color: black;
+}
+
+.photo_leo {
+  float: right;
+  width: 20%;
+  height: 400px;
+  object-fit: cover;
+}
+
+.wrong_daddy {
+  background-color: black;
+  color: white;
+  font-size: 30px;
+  text-align: center;
+  height: 50px;
 }
