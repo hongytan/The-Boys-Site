@@ -12,11 +12,6 @@ html, body {
   height: 7vw;
 }
 
-.banner_person {
-  background-image: url('photos/banner2.jpg');
-  height: 7vw;
-}
-
 .banner h1, .banner_person h1 {
   text-align: center;
   font-size: 5vw;
@@ -63,7 +58,7 @@ html, body {
 }
 
 #page_sam {
-  height: 565px;
+  height: 80%;
   background-color: orange;
   color: black;
 }
