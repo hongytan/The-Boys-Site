@@ -3,7 +3,7 @@ let count = 0;
 
 function urmomgay()
 {
-  if (count === 241) {
+  if (count === 69) {
     return;
   }
   document.querySelector('#page_sam').innerHTML += "YOUR'RE MOM GAY ";
