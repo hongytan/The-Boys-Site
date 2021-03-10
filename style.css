@@ -77,3 +77,11 @@ html, body {
   text-align: center;
   height: 50px;
 }
+
+.iframe {
+  text-align: center;
+}
+
+#page_bryce {
+  background-color: lightgreen;
+}
